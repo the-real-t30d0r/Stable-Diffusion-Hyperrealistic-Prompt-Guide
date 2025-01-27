@@ -1,7 +1,7 @@
 ## Stable Diffusion Hyperrealistic Prompt Guide (Quick Generation)
 
 This guide outlines the optimal settings and techniques for generating hyperrealistic portraits using Stable Diffusion. I tested it with a RTX 4060 Ti (8GB VRAM) .
-![](https://raw.githubusercontent.com/the-real-t30d0r/Stable-Diffusion-Hyperrealistic-Prompt-Guide/refs/heads/main/00022-3290660100.png)
+![](https://raw.githubusercontent.com/the-real-t30d0r/Stable-Diffusion-Hyperrealistic-Prompt-Guide/refs/heads/main/results.png)
 
 
 **Model:**
