@@ -41,5 +41,12 @@ For NSFW content generation:
 * Reduce sampling steps to 20.
 
 
+Results : 
 
+(8k, RAW photo, highest quality), hyperrealistic, Photo of a traditional young-age romanian man, highly detailed, cinematic, film grain, action-themed
+Negative prompt: ((censored) ), ((Asian) ), ((bad anatomy) ), bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, three crus, extra crus, fused crus, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, three crus, extra crus, fused crus, worst feet, three feet, fused feet, fused thigh, three thighs, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Asian, ((malformed feet) ), ((malformed foot) ), ((deformed iris, deformed pupils) )
+Steps: 25, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1170634956, Size: 640x896, Model hash: 92970aa785, Model: dreamlike-photoreal-2.0, Version: 1.10.1
 
+Time taken: 10.2 sec.
+
+A: 4.66 GB, R: 5.90 GB, Sys: 7.2/7.99609 GB (90.6%)
