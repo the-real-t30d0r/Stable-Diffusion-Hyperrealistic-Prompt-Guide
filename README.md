@@ -1,6 +1,8 @@
 ## Stable Diffusion Hyperrealistic Prompt Guide (Quick Generation)
 
-This guide outlines the optimal settings and techniques for generating hyperrealistic portraits using Stable Diffusion with an RTX 4060 Ti.
+This guide outlines the optimal settings and techniques for generating hyperrealistic portraits using Stable Diffusion. I tested it with a RTX 4060 Ti (8GB VRAM) .
+![](https://raw.githubusercontent.com/the-real-t30d0r/Stable-Diffusion-Hyperrealistic-Prompt-Guide/refs/heads/main/00022-3290660100.png)
+
 
 **Model:**
 
@@ -42,11 +44,6 @@ For NSFW content generation:
 * Keep all other settings identical.
 * Reduce sampling steps to 20.
 
-!(https://raw.githubusercontent.com/the-real-t30d0r/Stable-Diffusion-Hyperrealistic-Prompt-Guide/refs/heads/main/00022-3290660100.png)
 
-
-**Gallery:**
-
--
 
 
