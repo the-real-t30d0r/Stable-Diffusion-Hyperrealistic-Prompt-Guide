@@ -25,6 +25,7 @@ The following negative prompt helps to avoid common artifacts and ensure high im
 * **Height:** 896
 * **CFG Scale:** 7
 * **Seed:** -1
+* **Activate Face Restoration in Settings**
 
 **Prompt Examples:**
 Use the following base prompt to achieve my results:
