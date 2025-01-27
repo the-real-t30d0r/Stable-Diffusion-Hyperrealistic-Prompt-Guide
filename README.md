@@ -27,15 +27,11 @@ The following negative prompt helps to avoid common artifacts and ensure high im
 * **Seed:** -1
 
 **Prompt Examples:**
-Use the following base prompt and modify it to achieve my results:
+Use the following base prompt to achieve my results:
 
 (8k, RAW photo, highest quality), hyperrealistic, Photo of INSERT PROMP HERE, highly detailed, cinematic, film grain, action-themed
 
-**Tips for Prompts:**
-
-* Be specific and descriptive.
-* Use keywords related to the style, mood, and composition you want.
-* Experiment with different prompts to see what works best.
+You can use other prompts if you dont like it. Check this website out [https://prompthero.com/](https://prompthero.com/)
 
 **NSFW Content:**
 
