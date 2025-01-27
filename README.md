@@ -42,7 +42,7 @@ For NSFW content generation:
 * Keep all other settings identical.
 * Reduce sampling steps to 20.
 
-(https://raw.githubusercontent.com/the-real-t30d0r/Stable-Diffusion-Hyperrealistic-Prompt-Guide/refs/heads/main/00022-3290660100.png)
+!(https://raw.githubusercontent.com/the-real-t30d0r/Stable-Diffusion-Hyperrealistic-Prompt-Guide/refs/heads/main/00022-3290660100.png)
 
 
 **Gallery:**
